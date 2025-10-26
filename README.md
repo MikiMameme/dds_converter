@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Made with](https://img.shields.io/badge/Made%20with-ChatGPT-orange?logo=openai)](https://openai.com/)
-[![Author](https://img.shields.io/badge/Author-Miki%20Mame-lightgrey)](https://github.com/MikiMameme))  
+[![Author](https://img.shields.io/badge/Author-Miki%20Mame-lightgrey)](https://github.com/MikiMameme)  
 
 このツールは、**DDS形式の画像をPNG形式に変換し、指定したフォルダにコピー保存するシンプルなGUIアプリ**です。  
 単体ファイル・フォルダ単位の変換に対応しています。  
