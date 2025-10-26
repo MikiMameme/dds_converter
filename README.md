@@ -24,11 +24,7 @@ SNS投稿や共有にそのまま使えず不便でした。
 - Python 3.10 以降推奨  
 - Pillow ライブラリが必要です  
 
-### 🔧 インストール
-```bash
-pip install pillow
-  
-
+    
 ##🧱 使い方
 
 EXE または Python スクリプトを起動  
@@ -47,6 +43,7 @@ EXE または Python スクリプトを起動
 このプロジェクトは [ChatGPT (OpenAI GPT-5)] と協力して開発されました。  
 設計・コードの一部は ChatGPT の提案をもとに作成されています。
 
+  
 📝 ライセンス  
   
 MIT License  
