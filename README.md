@@ -36,12 +36,11 @@ Pythonをインストールしていない方でも、そのまま動作しま�
   
 ZIPを展開し、dds_converter_gui_advance.exe を実行してください。  
   
-🔒 注意:  
+### 🔒 注意:  
 一部のセキュリティソフトが「未知の実行ファイル」として警告を出す場合があります。  
 本ツールは Python スクリプトを pyinstaller でビルドしたものであり、不正な処理は行いません。  
 それでも不安がある場合は、Pythonスクリプト版（ソースコード）を実行するか、使用を控えてください。  
-  
-Use at your own risk.  
+### Use at your own risk.  
   
 ## 🧱 使い方
 
