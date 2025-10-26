@@ -8,8 +8,9 @@
 このツールは、**DDS形式の画像をPNG形式に変換し、指定したフォルダにコピー保存するシンプルなGUIアプリ**です。  
 単体ファイル・フォルダ単位の変換に対応しています。  
 
----
-
+--- 
+![Screenshot](https://raw.githubusercontent.com/MikiMameme/dds_converter/a349da2019bd6a48ab0a5a051c09a57977158b0f/Screenshot.png)
+  
 ## 🧠 開発のきっかけ
 
 『The Elder Scrolls V: Skyrim Anniversary Edition（AE）』で使用している  
